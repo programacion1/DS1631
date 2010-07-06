@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-"""Modulo para ejemplificar el uso de *epydoc*.
-:author: Raul Gonzalez
+"""Modulo de comunicaciones con Arduino Nano.
+:author: Jesús Genicio
 :version: 0.1"""
 
 __docformat__ = "restructuredtext"
